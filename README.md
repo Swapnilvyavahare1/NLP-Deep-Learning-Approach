@@ -1,4 +1,4 @@
 # NLP-Deep-Learning-Approach
 
-Library: Gensim
-Pretrained model: KeyedVectors
+1. Library: Gensim
+2. Pretrained model: KeyedVectors
